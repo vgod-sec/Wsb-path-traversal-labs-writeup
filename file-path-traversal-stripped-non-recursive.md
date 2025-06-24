@@ -29,7 +29,7 @@ The application strips path traversal sequences (`../`) from the user-supplied f
 
 ---
 
-## ✅l Result
+## ✅ Result
 
 Successfully retrieved the contents of `/etc/passwd`, completing the lab.
 
